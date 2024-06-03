@@ -1,0 +1,14 @@
+.center {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  border: solid black 5px;
+}
+
+input {
+  padding: 5px;
+}
+
+label {
+  font-size: larger;
+}
